@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# 컴파일 결과
+*.class
+
+# 기타
+/shelf/
+/.idea/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
